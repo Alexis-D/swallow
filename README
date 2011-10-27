@@ -1,0 +1,5 @@
+Swallow is a simple framework for running unittests.
+
+Why? Because it was a good way to play with some internal
+aspects of Python (inspect, traceback)...
+
